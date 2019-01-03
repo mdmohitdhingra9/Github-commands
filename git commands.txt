@@ -1,0 +1,11 @@
+GIT COMMANDS
+
+1. Create new repo on github and copy the clone url
+2. Create a specific folder, copy path and open it in gitbash
+3. cd <folder path> 
+4. git clone <cloneurl>
+5. Add project files(folders/cs/sln files) into the above folder
+6. go to gitbash and check status (git status)
+7. git add .
+8. git commit -m 'comments'
+9. git push origin HEAD
